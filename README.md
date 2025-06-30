@@ -1,5 +1,7 @@
 # Evo2-human: Fine-tuning Evo2 on Human DNA Sequences
 
+![Evo 2-human](Evo2-human.png)
+
 ## Overview
 Evo2-human is a project focused on fine-tuning the Evo2 foundation model using human DNA sequences sourced from the 1000 Genomes Project. The primary goal is to investigate the impact of this specialized fine-tuning on the model's capabilities, particularly for downstream tasks such as zero-shot Variant Effect Prediction (VEP). The project uses the BRCA dataset as a case study to evaluate the performance of the fine-tuned model in predicting the effects of genetic variants.
 
