@@ -4,3 +4,6 @@ The `brca.csv` dataset is derived from [Findlay et al. (2018) ](https://www.natu
 # GRCh37 p13 Reference Sequence
 The chromosome 17 reference genome (`GRCh37.p13_chr17.fna.gz`) is sourced from the February 2009 Homo sapiens high-coverage assembly GRCh37 by the [Genome Reference Consortium ](https://www.ncbi.nlm.nih.gov/grc).
 This reference is used exclusively for the zero-shot prediction of BRCA1 variants.
+
+## Phenotype Data
+The `phenotypes.csv` dataset is derived from the phase 3 release of the [1000 Genomes Project panel](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/integrated_call_samples_v3.20130502.ALL.panel).
