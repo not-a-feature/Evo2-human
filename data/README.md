@@ -1,0 +1,6 @@
+# BRCA Dataset
+The `brca.csv` dataset is derived from [Findlay et al. (2018) ](https://www.nature.com/articles/s41586-018-0461-z), featuring experimentally measured functional scores for 3,893 BRCA1 single nucleotide variants (SNVs). Each SNV is categorized by its functional score into one of three groups: LOF (loss-of-function), INT (intermediate), or FUNC (functional).
+
+# GRCh37 p13 Reference Sequence
+The chromosome 17 reference genome (`GRCh37.p13_chr17.fna.gz`) is sourced from the February 2009 Homo sapiens high-coverage assembly GRCh37 by the [Genome Reference Consortium ](https://www.ncbi.nlm.nih.gov/grc).
+This reference is used exclusively for the zero-shot prediction of BRCA1 variants.
