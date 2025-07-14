@@ -12,4 +12,6 @@ The project is still under active development, and the codebase is evolving. The
 
 ## Data
 This project uses the 2013-05-02 release of the 1000 Genomes Project, providing a comprehensive set of human DNA sequences for fine-tuning. For detailed information on dataset composition and preprocessing steps, refer to [data/README.md](data/README.md).
+
+
 <img src="data/population_map.png" alt="population map" width=700></img>
